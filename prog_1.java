@@ -1,3 +1,10 @@
+/**
+To accept a single digit number. 
+Frame and print the numbers in two digits,
+three digits and four digits by using n as 
+digits of the numbers.
+*/
+
 import java.util.*;
 public class prog_1
 {
